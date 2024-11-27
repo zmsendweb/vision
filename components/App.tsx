@@ -19,7 +19,7 @@ const status_text = {
   idle: "Initializing...",
   initializing: "Initializing...",
   initialized: "Start",
-  authenticating: "Requesting bot...",
+  authenticating: "Requesting Wanda...",
   connecting: "Connecting...",
 };
 
